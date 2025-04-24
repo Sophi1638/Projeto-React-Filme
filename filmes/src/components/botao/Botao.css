@@ -1,5 +1,5 @@
 .botao{
-    padding: 10px 10px;
+    height: 60px;
     width: 300px;
     border: none;
     cursor: pointer;
@@ -7,4 +7,6 @@
     color: white;
     border-radius: 6px;
     font-weight: bolder;
+    box-shadow: 1px 4px 4px 0px black;
 }
+
